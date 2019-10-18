@@ -1,0 +1,12 @@
+body{background-color: #54ff39;
+}
+p {
+	margin-left: 95px;
+  color: black;
+  font-size: 12pt;
+}
+a:link {
+  color: blue; 
+}
+a:visited {
+  color: green;}
